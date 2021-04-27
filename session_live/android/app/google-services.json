@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824028442527",
+    "project_id": "dsc-session-400bd",
+    "storage_bucket": "dsc-session-400bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824028442527:android:54780d4fa51008274117aa",
+        "android_client_info": {
+          "package_name": "com.example.session_live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824028442527-5md75n7pqti8jbhbcsvn5i1r3ucn5jju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeprtBw6V5UL2_04ZBvQHOu2wsoAEB-dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824028442527-5md75n7pqti8jbhbcsvn5i1r3ucn5jju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
